@@ -1,0 +1,6 @@
+print("halo dunia!!!!!")
+print("wasd")
+print("awokawokawok")
+print("muantabek")
+print("dfjksoifks")
+print("asdasdasdd")
